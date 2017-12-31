@@ -1,0 +1,19 @@
+{
+  "result": {
+    "item": "simplytransmogrification:talisman"
+  },
+  "pattern": [
+    "ddd",
+    "drd",
+    "ddd"
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "d": {
+      "item": "minecraft:diamond"
+    },
+    "r": {
+      "item": "minecraft:redstone_block"
+    }
+  }
+}

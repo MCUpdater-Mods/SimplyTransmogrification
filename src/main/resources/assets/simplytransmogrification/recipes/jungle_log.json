@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "simplytransmogrification:talisman"
+    },
+    {
+      "item": "minecraft:log",
+      "data": 2
+    }
+  ],
+  "result": {
+    "item": "minecraft:log",
+    "data": 3
+  }
+}

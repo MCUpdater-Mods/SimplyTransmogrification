@@ -1,0 +1,16 @@
+[
+{
+  "modid": "simplytransmogrification",
+  "name": "Simply Transmogrification",
+  "description": "Transmutation without everything else",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["smbarbour"],
+  "credits": "Jord740 for inspiration and texture",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

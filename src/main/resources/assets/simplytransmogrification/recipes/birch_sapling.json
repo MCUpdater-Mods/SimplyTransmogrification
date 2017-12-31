@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "simplytransmogrification:talisman"
+    },
+    {
+      "item": "minecraft:sapling",
+      "data": 1
+    }
+  ],
+  "result": {
+    "item": "minecraft:sapling",
+    "data": 2
+  }
+}
